@@ -1,4 +1,4 @@
-# Opá! Prazer Kaique!
+# Opá! Prazer, Kaique!
 
  - 👨‍🎓 Estudante de programação
  - ✉️ Contate-se no email: kaique.3613@gmail.com
